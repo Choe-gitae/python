@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dbfdd7-d0e8-489e-8ec2-529644cd76c5" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../aBasic/c_module_class/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/c_module_class/mypackage/mymodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex01_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex01_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex02_magic_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex02_magic_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex10_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex10_contact.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZW8J9yzA6ZoC7gnp9ruQ23so7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Python/DjangoPractice",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="52dbfdd7-d0e8-489e-8ec2-529644cd76c5" name="변경" comment="" />
+      <created>1670389424672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670389424672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
