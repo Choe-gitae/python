@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="52dbfdd7-d0e8-489e-8ec2-529644cd76c5" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../aBasic/c_module_class/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/c_module_class/mypackage/mymodule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex01_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex01_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex02_magic_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex02_magic_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aBasic/d_class_class/Ex10_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aBasic/d_class_class/Ex10_contact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoPractice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoPractice/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoPractice/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoPractice/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -30,10 +43,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python/DjangoPractice",
+    "last_opened_file_path": "D:/Python/DjangoPractice/manage.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="DjangoPracticeRun" type="PythonConfigurationType" factoryName="Python">
+      <module name="DjangoPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cgtcs\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="C:\Users\cgtcs\anaconda3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
