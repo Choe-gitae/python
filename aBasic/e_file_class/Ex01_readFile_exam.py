@@ -5,8 +5,18 @@
     인자로 받은 파일명을 open 하여 파일을 읽어서 단어를 수를 출력한다.
     존재하지 않는 파일명으로 예외가 발생해도 아무런 일을 하지 않는다
 """
+
+
 def count_words(filename):
-    pass  # pass 대신 완성
+    try:
+        with open('data/' + filename, 'r', encoding='utf-8') as file:
+            context = file.read()
+            words = context.split()
+    except Exception as e:
+        pass
+    else:
+        print('{} 파일의 단어수 : {}'.format(filename, len(words)))
+
 
 # 존재하지 않는 파일명도 있음
 filenames = ['sample.xml', 'xxxx.xxx', 'temp.json']
