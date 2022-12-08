@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52dbfdd7-d0e8-489e-8ec2-529644cd76c5" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoPractice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoPractice/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoPractice/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoPractice/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="52dbfdd7-d0e8-489e-8ec2-529644cd76c5" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
