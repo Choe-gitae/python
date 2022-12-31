@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e90d8669-4402-47ed-b4c8-7762cbd8f047" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/../DjangoPractice/.idea/DjangoPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/.idea/DjangoPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DjangoPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoPractice/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_file_class/Ex00_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_file_class/Ex00_exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_file_class/Ex01_readFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_file_class/Ex01_readFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_file_class/Ex01_readFile_exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_file_class/Ex01_readFile_exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_file_class/Ex02_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_file_class/Ex02_csv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python/aBasic",
+    "last_opened_file_path": "D:/Python/cWebConn",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -55,7 +55,7 @@
       <recent name="D:\Python\aBasic\c_module_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex13_oracle_lab">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Ex03_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />

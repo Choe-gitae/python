@@ -14,9 +14,10 @@ data = [
 #     csvout = csv.writer(file)
 #     csvout.writerows(data)
 
-result = []
+
 with open('data/imsi.csv', 'r', encoding='utf-8-sig') as file:
     csvin = csv.reader(file)
+    # print(csvin)
     result = [row for row in csvin if row]
 
 print(result)
